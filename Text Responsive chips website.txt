@@ -101,7 +101,6 @@ Find us here
 
 .contact__social
 https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
-https://m.me/bedimcode
 
 
 
