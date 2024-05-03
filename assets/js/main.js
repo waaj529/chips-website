@@ -33,8 +33,14 @@ this.scrollY >= 50 ? header.classList.add('shadow-header')
 }
 window.addEventListener('scroll', scrollHeader)
 /*=============== SWIPER FAVORITES ===============*/ 
+const swiperFavorites = new Swiper('.favorites__swiper', {
+   loop:true,
+   grabCursor:true,
+   slidesPerview:'auto',
+   centeredSlides:'auto',
 
-
+})
+   
 /*=============== SHOW SCROLL UP ===============*/ 
 
 
